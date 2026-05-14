@@ -1,2 +1,0 @@
-# deb-design
-web project
